@@ -1,5 +1,3 @@
-# REDMI.md — Linux X11 Installer
-
 Panduan lengkap instalasi, penggunaan, dan penjelasan seluruh sistem `linux-x11-installer.sh`.
 
 ## 1. Download Installer
