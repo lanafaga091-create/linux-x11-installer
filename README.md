@@ -4,10 +4,8 @@ Panduan lengkap instalasi, penggunaan, dan penjelasan seluruh sistem `linux-x11-
 
 Download installer dari MediaFire:
 
-**Link:** 
-```bash
-https://www.mediafire.com/file/rxss6us6xuo0r12/linux-x11-installer-v7.9.0-debian-root.sh/file
-```
+**Link:** https://www.mediafire.com/file/rxss6us6xuo0r12/linux-x11-installer-v7.9.0-debian-root.sh/file
+
 
 Setelah file selesai di-download, pastikan namanya:
 
